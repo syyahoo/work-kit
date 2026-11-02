@@ -1,0 +1,14 @@
+interface:
+  display_name: 작업하며 이해하기
+  short_description: 설계 대안의 장단점을 비교해 선택하고 구현·검증·판단 근거를 남깁니다
+  default_prompt: $explain-as-you-build를 사용해 중요한 설계는 대안별 장단점을 보여주고 내가 선택한 뒤 구현하며,
+    작업 중 설명과 검증 근거를 남겨줘.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
