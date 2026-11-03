@@ -7,7 +7,7 @@
 IDE의 AI에 다음 문장을 입력합니다.
 
 ```text
-깃허브 syyahoo/work-kit을 받아서 START.md대로 시작해.
+깃허브 syyahoo/work-kit를 받아서 START.md대로 시작해.
 ```
 
 터미널에서 직접 받을 수도 있습니다.
