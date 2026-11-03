@@ -1,0 +1,13 @@
+interface:
+  display_name: "작업하며 이해하기"
+  short_description: "초기 셋업을 실행하고 설계 대안의 장단점·선택·검증 근거를 남깁니다"
+  default_prompt: "$explain-as-you-build를 사용해 시작 환경을 점검하고, 중요한 설계는 장단점 비교 후 내 선택에 따라 초기 설정·설치·실행·첫 화면 확인까지 직접 진행하며 판단과 검증 근거를 남겨줘."
+  icon_small: "assets/icon.svg"
+  icon_large: "assets/icon.svg"
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

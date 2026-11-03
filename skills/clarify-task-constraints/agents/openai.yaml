@@ -1,0 +1,4 @@
+interface:
+  display_name: "담당자에게 조건 확인하기"
+  short_description: "누락된 업무 조건을 중요한 질문부터 확인하고 답을 설계와 검증에 연결합니다"
+  default_prompt: "Use $clarify-task-constraints to separate stated requirements from assumptions, prioritize questions for the provided virtual stakeholder, and connect actual answers to design choices and checks before implementation."

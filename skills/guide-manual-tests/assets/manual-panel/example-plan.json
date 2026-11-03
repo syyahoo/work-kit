@@ -1,0 +1,16 @@
+{
+  "id": "replace-with-project-id",
+  "title": "실제 앱에 맞춰 바꿀 예시",
+  "codeState": "unknown",
+  "cases": [
+    {
+      "id": "T1",
+      "title": "예시: 정상 등록",
+      "requirements": ["R1"],
+      "prepare": "실제 앱의 합성 테스트 자료와 초기 상태로 교체",
+      "input": "실제 앱에서 사용할 정확한 입력값으로 교체",
+      "steps": ["실제 앱의 첫 조작으로 교체", "실제 앱의 확인 조작으로 교체"],
+      "expected": "담당자가 확인한 R1의 구체적인 화면·데이터 기대값으로 교체"
+    }
+  ]
+}
