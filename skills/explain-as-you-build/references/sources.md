@@ -5,7 +5,7 @@
 - [cofa-toolkit — explain-artifact](https://github.com/B0neh3ad/cofa-toolkit/blob/main/skills/explain-artifact/SKILL.md): 실제 산출물에 근거한 설명.
 - [cofa-toolkit — evidence-check](https://github.com/B0neh3ad/cofa-toolkit/blob/main/skills/evidence-check/SKILL.md): 기대·관찰·코드 상태를 연결하는 검증.
 - [cofa-skills — decision-log](https://github.com/ColdTbrew/cofa-skills/blob/main/skills/decision-log/SKILL.md): 결정 시점의 이유·근거 기록.
-- [hynix-hackathon-kit — explain-prep](https://github.com/leeyeonho95/hynix-hackathon-kit/blob/main/skills/explain-prep/SKILL.md): AI 제안과 사람의 판단 구별.
+- [설명 준비 참고 — explain-prep](https://github.com/leeyeonho95/hynix-hackathon-kit/blob/main/skills/explain-prep/SKILL.md): AI 제안과 사람의 판단 구별.
 
 ## 보완한 부분
 

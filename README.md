@@ -1,4 +1,4 @@
-# hynix-exam-skills
+# work-kit
 
 웹 IDE에서 조건 확인, 설계 선택, 초기 셋업과 검증을 돕는 AI 협업 개발 스킬입니다.
 
@@ -9,13 +9,13 @@
 IDE의 AI에 다음 문장을 입력합니다.
 
 ```text
-깃허브 syyahoo/hynix-exam-skills를 받아서 START.md대로 시작해.
+깃허브 syyahoo/work-kit를 받아서 START.md대로 시작해.
 ```
 
 터미널에서 직접 받을 수도 있습니다.
 
 ```bash
-git clone https://github.com/syyahoo/hynix-exam-skills s
+git clone https://github.com/syyahoo/work-kit s
 ```
 
 다운로드 후 AI에 `s/START.md 읽고 시작해.`라고 입력합니다.
